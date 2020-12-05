@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="BetterSize">
-    <output-path>$PROJECT_DIR$/out/artifacts/BetterSize</output-path>
-    <root id="archive" name="BetterSize.jar">
-      <element id="module-output" name="BetterSize" />
-    </root>
-  </artifact>
-</component>
